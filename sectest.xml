@@ -2,7 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.itsec.gov.cn/aqkkcp/cpgg/</id>
     <title>安全可靠评测</title>
-    <updated>2025-10-24T01:51:04.454Z</updated>
+    <updated>2025-10-24T01:56:29.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.itsec.gov.cn/aqkkcp/cpgg/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[安全可靠测评结果公告（2025年第3号） 2025-09-12]]></title>
+        <id>https://www.itsec.gov.cn/aqkkcp/cpgg/202509/t20250912_235645.html</id>
+        <link href="https://www.itsec.gov.cn/aqkkcp/cpgg/202509/t20250912_235645.html"/>
+        <updated>2025-10-24T01:56:25.991Z</updated>
+        <content type="html"><![CDATA[<a href="./202509/t20250912_235645.html" target="_blank" title="安全可靠测评结果公告（2025年第3号）">安全可靠测评结果公告（2025年第3号） </a><span>2025-09-12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全可靠测评结果公告（2025年第2号） 2025-08-22]]></title>
+        <id>https://www.itsec.gov.cn/aqkkcp/cpgg/202508/t20250822_231110.html</id>
+        <link href="https://www.itsec.gov.cn/aqkkcp/cpgg/202508/t20250822_231110.html"/>
+        <updated>2025-10-24T01:56:25.993Z</updated>
+        <content type="html"><![CDATA[<a href="./202508/t20250822_231110.html" target="_blank" title="安全可靠测评结果公告（2025年第2号）">安全可靠测评结果公告（2025年第2号） </a><span>2025-08-22</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全可靠测评结果公告（2025年第1号） 2025-03-14]]></title>
+        <id>https://www.itsec.gov.cn/aqkkcp/cpgg/202503/t20250314_216512.html</id>
+        <link href="https://www.itsec.gov.cn/aqkkcp/cpgg/202503/t20250314_216512.html"/>
+        <updated>2025-10-24T01:56:25.996Z</updated>
+        <content type="html"><![CDATA[<a href="./202503/t20250314_216512.html" target="_blank" title="安全可靠测评结果公告（2025年第1号）">安全可靠测评结果公告（2025年第1号） </a><span>2025-03-14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全可靠测评结果公告（2024年第2号） 2024-09-30]]></title>
+        <id>https://www.itsec.gov.cn/aqkkcp/cpgg/202409/t20240930_194299.html</id>
+        <link href="https://www.itsec.gov.cn/aqkkcp/cpgg/202409/t20240930_194299.html"/>
+        <updated>2025-10-24T01:56:25.997Z</updated>
+        <content type="html"><![CDATA[<a href="./202409/t20240930_194299.html" target="_blank" title="安全可靠测评结果公告（2024年第2号）">安全可靠测评结果公告（2024年第2号） </a><span>2024-09-30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全可靠测评结果公告（2024年第1号） 2024-05-20]]></title>
+        <id>https://www.itsec.gov.cn/aqkkcp/cpgg/202405/t20240520_172866.html</id>
+        <link href="https://www.itsec.gov.cn/aqkkcp/cpgg/202405/t20240520_172866.html"/>
+        <updated>2025-10-24T01:56:25.999Z</updated>
+        <content type="html"><![CDATA[<a href="./202405/t20240520_172866.html" target="_blank" title="安全可靠测评结果公告（2024年第1号）">安全可靠测评结果公告（2024年第1号） </a><span>2024-05-20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全可靠测评结果公告（2023年第1号） 2023-12-26]]></title>
+        <id>https://www.itsec.gov.cn/aqkkcp/cpgg/202312/t20231226_162074.html</id>
+        <link href="https://www.itsec.gov.cn/aqkkcp/cpgg/202312/t20231226_162074.html"/>
+        <updated>2025-10-24T01:56:26.001Z</updated>
+        <content type="html"><![CDATA[<a href="./202312/t20231226_162074.html" target="_blank" title="安全可靠测评结果公告（2023年第1号）">安全可靠测评结果公告（2023年第1号） </a><span>2023-12-26</span>]]></content>
+    </entry>
 </feed>
