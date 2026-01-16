@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.itsec.gov.cn/aqkkcp/cpgg/</id>
     <title>安全可靠评测</title>
-    <updated>2026-01-16T05:47:14.167Z</updated>
+    <updated>2026-01-16T17:46:23.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.itsec.gov.cn/aqkkcp/cpgg/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[安全可靠测评结果公告（2026年第1号） 2026-01-16]]></title>
+        <id>https://www.itsec.gov.cn/aqkkcp/cpgg/202601/t20260116_249958.html</id>
+        <link href="https://www.itsec.gov.cn/aqkkcp/cpgg/202601/t20260116_249958.html"/>
+        <updated>2026-01-16T17:46:20.581Z</updated>
+        <content type="html"><![CDATA[<a href="./202601/t20260116_249958.html" target="_blank" title="安全可靠测评结果公告（2026年第1号）">安全可靠测评结果公告（2026年第1号） </a><span>2026-01-16</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安全可靠测评结果公告（2025年第3号） 2025-09-12]]></title>
         <id>https://www.itsec.gov.cn/aqkkcp/cpgg/202509/t20250912_235645.html</id>
