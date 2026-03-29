@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leoshcn.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-03-29T06:39:23.001Z</updated>
+    <updated>2026-03-29T17:55:02.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Michael Gove (Wikipedia — did you know?)]]></title>
         <id>https://en.wikipedia.org/wiki/Michael_Gove</id>
         <link href="https://en.wikipedia.org/wiki/Michael_Gove"/>
         <updated>2026-03-29T06:39:19.630Z</updated>
-        <content type="html"><![CDATA[... that UK MP <b><a href="/wiki/Michael_Gove" title="Michael Gove">Michael Gove</a></b> <i>(pictured)</i> won a televised quiz show before entering politics?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Michael_Gove" title="Michael Gove">Michael Gove</a></b> <i>(pictured)</i>, now a member of the <a href="/wiki/House_of_Lords" title="House of Lords">House of Lords</a>, appeared on the television quiz show <i><a href="/wiki/Top_Club" title="Top Club">Top Club</a></i>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hippocampus (Wikipedia — did you know?)]]></title>
@@ -111,7 +111,7 @@
         <link href="https://en.wikivoyage.org/wiki/Previous_Featured_travel_topics"/>
         <updated>2025-10-24T01:25:23.154Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569" about="#mwt12" typeof="mw:Extension/templatestyles mw:Transclusion" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;right&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Seminole Wars&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;ftt&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;SeminoleWarsBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;A result of American settlement in the contested forests and prairies of colonial Florida, the devastating Seminole Wars fought between U.S. forces and Seminoles in Florida left behind wartime artifacts, forts, and plantation ruins from the 19th century.&quot;}},&quot;i&quot;:0}}]}" id="mwLA"><span about="#mwt12">
-</span><div class="banner-image js-proportonal-resize notheme" about="#mwt12" id="mwLQ">
+</span><div class="banner-image js-proportonal-resize notheme" about="#mwt12" id="mwLQ" style="font-size: 108%;">
 	<p><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img resource="//en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/250px-Interactive_icon.svg.png" decoding="async" data-file-width="133" data-file-height="200" data-file-type="drawing" height="376" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/500px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/500px-Interactive_icon.svg.png 2x" class="mw-file-element"></span></span></p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-right" style="width:45%">
         <div style="position:relative; float:left; margin:-4px;">
